@@ -20,3 +20,6 @@ https://x.com/Ali_Developer05/status/1698622092869263715?s=20
 
 - Tamanho de Texto Responsivo
 https://x.com/NanouuSymeon/status/1698415686559686745?s=20
+
+- Flex Container Responsivo
+https://x.com/alicalimli_dev/status/1697135248742416592?s=20
