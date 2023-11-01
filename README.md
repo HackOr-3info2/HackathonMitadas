@@ -1,7 +1,7 @@
 # HackathonMitadas
 
 - Biblioteca de componentes google (botões, animações de load esse tipo de coisa pequena padronizada)
-https://x.com/materialdesign/status/1714378297696461160?s=20
+[https://x.com/materialdesign/status/1714378297696461160?s=20](https://m3.material.io/develop/web)
 
 - Texto de Footer Responsivo
 https://x.com/davidm_ml/status/1713142606832566697?s=20
