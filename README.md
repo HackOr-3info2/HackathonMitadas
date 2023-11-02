@@ -1,8 +1,5 @@
 # HackathonMitadas
 
-- Biblioteca de componentes google (botões, animações de load esse tipo de coisa pequena padronizada)
-[https://x.com/materialdesign/status/1714378297696461160?s=20](https://m3.material.io/develop/web)
-
 - Texto de Footer Responsivo
 https://x.com/davidm_ml/status/1713142606832566697?s=20
 
@@ -23,3 +20,24 @@ https://x.com/NanouuSymeon/status/1698415686559686745?s=20
 
 - Flex Container Responsivo
 https://x.com/alicalimli_dev/status/1697135248742416592?s=20
+
+## Toolbox de Sites
+- Referencias
+  - https://www.behance.net
+  - https://br.pinterest.com
+- Criar Previews em 3d (Pra apresentação)
+  - https://previewed.app
+- Cores, Combinações ETC.
+  - https://pigment.shapefactory.co
+  - https://coolors.co/
+- Testar Cores 
+  - https://www.realtimecolors.com/
+  - https://coolors.co/visualizer
+- Fontes 
+  - https://www.freefaces.gallery
+  - https://gitlab.com/velvetyne/velvetyne-libre-friends/-/blob/main/README.md
+- Lib de Componentes
+  - https://m3.material.io/develop/web/
+  - https://getbootstrap.com/docs/5.3/components/
+- Lib de Animações (duvido q usaremos)
+  - https://gsap.com
