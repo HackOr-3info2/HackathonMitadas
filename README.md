@@ -55,3 +55,6 @@ https://webflow.com/blog/accessibility-design-guidelines
 ## Integração AI
 https://blog.hubspot.com/website/chatgpt-integration
 
+## Formatação de Texto
+https://quilljs.com/docs/quickstart/
+
