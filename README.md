@@ -1,5 +1,15 @@
 # HackathonMitadas
-- fonte: nighty font
+
+@font-face {
+    font-family: nighty;
+    src: url("/nighty/Nightydemo.otf");
+}
+p {
+    font-family: nighty;
+}
+
+
+
 - Texto de Footer Responsivo
 https://x.com/davidm_ml/status/1713142606832566697?s=20
 
