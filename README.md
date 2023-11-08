@@ -48,6 +48,10 @@ https://x.com/alicalimli_dev/status/1697135248742416592?s=20
 - Fontes Interessantes
   - https://vm.tiktok.com/ZMjQrRUYL/
 
+## Acessibilidade
+https://webflow.com/accessibility/checklist#start (Esse site é uma checklist sobre coisas necessárias para acessibilidade do site)
+https://webflow.com/blog/accessibility-design-guidelines
+
 ## Integração AI
 https://blog.hubspot.com/website/chatgpt-integration
 
