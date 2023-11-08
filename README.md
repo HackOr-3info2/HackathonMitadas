@@ -41,6 +41,8 @@ https://x.com/alicalimli_dev/status/1697135248742416592?s=20
   - https://getbootstrap.com/docs/5.3/components/
 - Lib de Animações (duvido q usaremos)
   - https://gsap.com
+- Criação de Componentes Materiais
+  - https://m2.material.io/components/text-fields#anatomy 
 
 ## Coisas random mas legais/usáveis
 - Fontes Interessantes
