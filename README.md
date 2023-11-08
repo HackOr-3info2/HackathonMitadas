@@ -45,3 +45,7 @@ https://x.com/alicalimli_dev/status/1697135248742416592?s=20
 ## Coisas random mas legais/usáveis
 - Fontes Interessantes
   - https://vm.tiktok.com/ZMjQrRUYL/
+
+## Integração AI
+https://blog.hubspot.com/website/chatgpt-integration
+
