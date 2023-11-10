@@ -1,5 +1,15 @@
 # HackathonMitadas
+
+
 https://designer.primevue.org/#/
+
+o que pensamos 
+* Acessibilidade
+* tela de login
+* tela de usuario
+* teste do scroll
+* teste de grid com card
+
 @font-face {
     font-family: nighty;
     src: url("/nighty/Nightydemo.otf");
